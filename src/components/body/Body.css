@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.body {
+  font-family: "Inter", sans-serif;
+}
+
+.new-arrivals {
+  margin: 20px 0;
+  background-color: #12D9DB;
+  padding: 0 15px 20px;
+  border-radius: 5px;
+}
+.home-content .card-img-top {
+  width: 80%;
+  margin: 20px auto;
+}
+.card {
+  margin-top: 20px;
+}
+.home-content{
+  margin-top: 10px;
+  padding: 20px;
+}
+.home-content .row .col-12 {
+  margin-bottom: 20px;
+}
+.home-content h3 {
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 700;
+  padding: 20px;
+  background-color: #12D9DB;
+}
+.home-content .card{
+  height: 100%;
+  margin-top: 10px;
+  border: none;
+}
+.home-content .card img{
+  height: 120px;
+}
+.home-content .card-body p{
+  text-align: start;
+}
+.home-content .card-body h6{
+  text-align: start;
+}
+.home-content .card-body h5{
+  text-align: start;
+}
+.home-content .card-body i{
+  border: none;
+  color: #fbff00;
+  margin-left: 5px;
+}
+.home-content .more{
+  margin-top: 10px;
+  text-align: center;
+}
+.home-content .more a{
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #0846CC;
+  text-decoration: none;
+  color: white;
+  padding-bottom: 10px;
+}
+.featured-collection {
+  margin: 50px 0;
+  background-color: #12D9DB;
+  padding: 0 15px 20px;
+  border-radius: 5px;
+}
+.featured-collection .card-link{
+  text-decoration:none;
+  color: black;
+}
+.home-content .card-body {
+  text-align: center;
+}
+.blog{
+  margin-top: 40px;
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 5px;
+}
+.blog .card-text{
+  text-align: start;
+}
+.product-list{
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-radius: 5px;
+}
+.blog .title{
+  display: flex;
+  justify-content: space-between;
+}
+.blog .title a{
+  text-decoration: none;
+  color: black;
+}
+.blog .title a i{
+  margin-left: 5px;
+}
+.home-content .button{
+  display: none;
+}
+@media screen and (max-width:500px) {
+  .home-content .button{
+    display: block;
+  }
+  .home-content .button .add{
+    margin-top: 20px;
+  }
+  .home-content .button .buy{
+    width: 200px;
+  }
+  .home-content .button button{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+  }
+  .home-content .row .col-12 {
+    margin-bottom: 20px;
+  }
+  .blog .title a{
+    font-size: 12px;
+    margin-top: 5px;
+  }
+}
+

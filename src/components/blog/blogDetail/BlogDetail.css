@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    margin: 30px 0;
+}
+.article{
+    width: 75%;
+    margin: 30px auto;
+}
+.userdetail{
+    display:block;
+    margin: 20px 0;
+}
+.userdetail div{
+    display: inline-block;
+    font-weight: 600;
+    font-size: 12px;
+}
+.userdetail span{
+    display: inline-block;
+    font-size: 12px;
+    margin-left: 20px;
+    color: #999;
+}
+.article img {
+    display: block;
+    width: auto;
+    height: auto;
+    width: 100%;
+}
+.article .captionnews{
+    color: #999;
+    font-size: 14px;
+    font-style: italic;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.article a{
+    text-decoration: none;
+}
+.article .btv {
+    font-size: 14px;
+    color: #999;
+}
+.related{
+    margin-left: -40px;
+}
+.related .titlerelate {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    line-height: 26px;
+    text-transform: uppercase;
+    padding: 30px 20px 10px;
+    margin: 0 20px;
+}
+.related .newsrelate{
+    list-style: none;
+}
+.newsrelate li {
+    float: left;
+    width: 30%;
+    margin-left: 2.5%;
+    margin-bottom: 15px;
+}
+.article .tempvideo img{
+    width: 100%;
+    max-height: 135px;
+    margin: 10px auto;
+    border-radius: 8px 8px 0 0;
+}
+.newsrelate li h6 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    width: auto;
+    margin: 5px auto;
+    color: #333;
+}
+.newsrelate li .timepost {
+    margin-top: 2px;
+    font-size: 13px;
+    color: #999;
+}

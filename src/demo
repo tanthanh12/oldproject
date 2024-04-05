@@ -1,0 +1,13 @@
+   <!-- <Router>
+      {/* <Link to="/">page1</Link>
+      <Link to="/page2">page2</Link>
+      <Link to="/page3">page3</Link> */}
+        <Routes>
+          <Route index element ={<Home/>}></Route>
+          <Route path="Blog" element={<BlogDetail/>}></Route>
+          <Route path="page2" element={<Payment/>}></Route>
+          <Route path="page3" element={<Cart/>}></Route>
+          <Route path="product/:id" element={<ProductDetail/>}></Route>
+          <Route path="/*" element={<h1>Error Page</h1>}></Route>
+        </Routes>
+      </Router>  -->

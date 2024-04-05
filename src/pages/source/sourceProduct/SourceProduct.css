@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Inter",sans-serif;
+}
+.cart{
+    display: flex;
+}
+.cart .left{
+    width: 60%;
+}
+.cart .left .line{
+    position: relative;
+    margin-bottom: 20px;
+}
+.cart .left .line::after{
+    content: " ";
+    left:0;
+    height: 1px;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+}
+.cart .right{
+    width: 30%;
+    margin-left: 20px;
+    
+}
+.cart .right .content-bottom {
+    border-radius: 5px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+.cart .right .temporary{
+    display: flex;
+    justify-content: space-between;
+}
+.cart .right .total-price{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cart .right .order {
+    margin-top: 20px;
+    text-align: center;
+}

@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+.section1 .banner-group {
+  display: flex;
+}
+.section1 .banner-group .banner {
+  width: 70%;
+}
+.section1 .banner-group .card {
+  margin-left: 30px;
+  border: none;
+}
+.section1 .banner-group .card-body {
+  margin-left: -15px;
+}
+.section1 > .banner-group > .banner > .card > img {
+  border-radius: 20px;
+  width: 100%;
+  padding: 10px;
+}
+.section1 .banner-group .banner .card-body {
+  text-align: start;
+}
+.section1 .banner-group .next-to-banner {
+  width: 30%;
+  margin-top: 5px;
+}
+.section1 .banner-group .next-to-banner .card-body {
+  text-align: start;
+}
+.section1 .card .card-body a {
+  text-decoration: none;
+  color: black;
+}
+.section1 h3 {
+  margin-left: 40px;
+  border-bottom: 3px solid #12d9db;
+}
+.section2 h3 {
+  margin-left: 10px;
+  border-bottom: 3px solid #12d9db;
+}
+.section2 .card {
+  border: none;
+}
+.section2 .card-body {
+  display: inline-flex;
+  align-items: center;
+  text-align: start;
+}
+.section2 > .card > .card-body > .card-img-top {
+  width: 30%;
+  margin-left: -10px;
+}
+.section2 .card h6 {
+  width: 50%;
+  margin-left: 20px;
+}
+@media screen and (max-width:720px){
+  .section1 .banner-group{
+    display: block;
+  }
+  .section1 .banner-group .banner{
+    width: 100%;
+  }
+  .section1 .banner-group .next-to-banner{
+    width: 100%;
+  }
+}

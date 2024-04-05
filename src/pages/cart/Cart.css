@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+.crumb {
+  margin-left: 20px;
+}
+.crumb i {
+  color: #3298b9;
+}
+h3 {
+  margin-left: 20px;
+  font-weight: 600;
+}
+.cart {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.cart .right {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.cart .left {
+  padding: 20px;
+  width: 70%;
+  border-radius: 10px;
+}
+.cart .content-top {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.cart .content-bottom {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+}
+.cart .content-top .line {
+  justify-content: space-around;
+}
+.cart .content-top .line::after {
+  content: " ";
+  display: block;
+  border-bottom: 1px solid black;
+  margin-bottom: 10px;
+}
+.cart .content .line .form-check-label {
+  font-weight: 500;
+}
+.detail {
+  align-items: center;
+}
+
+.detail .product-info .text-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.detail .product-info img {
+  width: 25%;
+}
+.product-info {
+  display: inline-flex;
+}
+
+.product-info img {
+  width: 20%;
+  margin: 0 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: white;
+}
+.cart .count {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.cart .count button {
+  background-color: #bbbbbb;
+  border: none;
+  margin-top: 10px;
+}
+
+.cart .count span {
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  background-color: white;
+}
+.cart .count .delete {
+  margin-top: 10px;
+}
+.temporary {
+  display: flex;
+  text-align: start;
+  justify-content: space-between;
+}
+
+.description {
+  margin-left: 30px;
+  text-align: end;
+}
+
+.voucher {
+  margin: 30px 0;
+  text-align: start;
+}
+
+.voucher button {
+  border: none;
+  background-color: #3298b9;
+}
+
+.total-price {
+  display: flex;
+  margin-top: 20px;
+  text-align: start;
+  justify-content: space-between;
+}
+
+.number-reward {
+  margin-left: 30px;
+  text-align: end;
+}
+
+.order button {
+  border: none;
+  width: 100%;
+  background-color: #3298b9;
+}
+
+.cart button:hover {
+  background-color: #2078b5;
+}
+@media screen and (max-width: 1200px) {
+  .cart {
+    display: block;
+  }
+  .cart .left {
+    width: 100%;
+  }
+}

@@ -1,0 +1,332 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.image {
+  margin-top: 20px;
+}
+
+.image img {
+  width: 100%;
+}
+.header {
+  background-color: #12d9db;
+}
+.header-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.col:nth-child(2) {
+  width: 100%;
+  float: left;
+}
+
+.find {
+  margin-top: 70px;
+}
+
+.find button {
+  background-color: #0846cc;
+  border: none;
+}
+.icon {
+  color: black;
+}
+.icon #user-icon {
+  color: white;
+  background-color: #0846cc;
+  transition: 0.2s;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+.icon .user-link {
+  margin-left: 5px;
+}
+
+.icon .user-link a {
+  text-decoration: none;
+  color: black;
+}
+
+.header-top .icon {
+  margin-top: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.header-top .icon i {
+  margin-left: 25px;
+  position: relative;
+}
+
+.icon .liking {
+  margin: 0 20px;
+}
+
+.header-top .icon .liking #heart-icon {
+  color: red;
+}
+.header-top .icon .liking span {
+  margin-left: 3px;
+}
+.icon i .number {
+  background-color: red;
+  border-radius: 100px;
+  padding: 3px;
+  font-size: 10px;
+  position: absolute;
+  top: -10px;
+  left: 15px;
+}
+
+.icon #cart {
+  color: black;
+}
+
+.header-top {
+  margin-bottom: 20px;
+}
+.header-top .icon .i-user a{
+  text-decoration: none;
+  color: black;
+}
+.nav-header {
+  background-color: #12d9db;
+  text-align: center;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  display: none;
+}
+.account{
+  border-top: 1px solid black;
+  display: none;
+  cursor: pointer;
+ 
+}
+.logout{
+  display: none;
+  cursor: pointer;
+}
+.logout .nav-link i{
+  display: inline-block;
+}
+.nav-link {
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+.nav-link span {
+  margin-left: 10px;
+}
+.nav-link:hover {
+  color: white;
+}
+.nav-header .nav-sub {
+  display: none;
+}
+.nav-header .user{
+  display: none;
+}
+div.dropdown-menu{
+  transition: 0.2s;
+}
+.dropdown-item {
+  font-size: 15px;
+  color: black;
+  background-color: none;
+}
+
+.dropdown-item.active {
+  background-color: white;
+  color: black;
+}
+
+.dropdown-item.active:hover {
+  background-color: #f8f8f8;
+  color: black;
+}
+
+.banner {
+  margin-top: 5px;
+}
+
+.banner img {
+  width: 100%;
+  height: 50%;
+  position: relative;
+}
+
+.banner .chevron {
+  position: absolute;
+  top: 60%;
+}
+
+.banner .chevron i {
+  color: gray;
+  opacity: 0.5;
+  font-size: 50px;
+  padding: 10px;
+}
+
+.banner .chevron i:hover {
+  opacity: 1;
+  color: darkblue;
+}
+
+.banner .chevron i:first-child {
+  margin-left: 10px;
+}
+
+.banner .chevron i:last-child {
+  margin-left: 1140px;
+}
+@media screen and (max-width: 720px) {
+  .header-top{
+    display: none;
+  }
+  .nav-header .user{
+    display: block;
+  }
+  .account{
+    display: block;
+  }
+  .logout{
+    display: block;
+  }
+  .container-fluid .navbar-brand {
+    display: flex;
+  }
+  .container-fluid .navbar-brand .image {
+    width: 100px;
+    text-align: start;
+    margin-top: -10px;
+  }
+  .container-fluid .navbar-brand .image img {
+    width: 100px;
+  }
+  .container-fluid .navbar-brand .find {
+    width: 200px;
+    align-items: center;
+    margin-top: 40px;
+  }
+  .container-fluid .navbar-brand .icon-nav {
+    width: 50px;
+    height: 60px;
+    display: flex;
+    margin: 40px 20px  0 ;
+  }
+  .container-fluid .navbar-brand .icon-nav i {
+    font-size: 18px;
+  }
+  .container-fluid .navbar-brand .icon-nav .i-cart {
+    margin-left: 15px;
+    position: relative;
+  }
+  .container-fluid .navbar-brand .icon-nav .i-user i {
+    color: white;
+    background-color: #0846cc;
+    transition: 0.2s;
+    padding: 10px;
+    border-radius: 30px;
+  }
+  .container-fluid .navbar-brand .icon-nav .i-cart .number {
+    background-color: red;
+    border-radius: 100px;
+    padding: 3px;
+    font-size: 10px;
+    position: absolute;
+    top: -5px;
+    left: 15px;
+  }
+  .icon .liking {
+    display: none;
+  }
+  .navbar-brand {
+    display: block;
+  }
+  .nav-link {
+    text-align: start;
+  }
+  .nav-link i {
+    display: none;
+  }
+  .image {
+    text-align: center;
+  }
+
+  .icon {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 500px) {
+  .header-top .row .icon {
+    margin: 20px auto;
+  }
+  .container-fluid .navbar-brand {
+    display: flex;
+  }
+  .container-fluid .navbar-brand .image {
+    width: 80px;
+    text-align: start;
+    margin-top: -10px;
+  }
+  .container-fluid .navbar-brand .image img {
+    width: 100px;
+  }
+  .container-fluid .navbar-brand .find {
+    width: 150px;
+    height: 30px;
+    align-items: center;
+    margin: 30px 0 0 20px ;
+  }
+  .container-fluid .navbar-brand .find input {
+    font-size: 12px ;
+  }
+  .container-fluid .navbar-brand .icon-nav {
+    width: 10px;
+    height: 60px;
+    display: flex;
+    margin: 40px 1px 0;
+    display: none;
+  }
+  .container-fluid .navbar-brand .icon-nav i {
+    font-size: 15px;
+  }
+  .container-fluid .navbar-brand .icon-nav .i-cart {
+    margin-right: 50px;
+    position: relative;
+    display: none;
+  }
+  .container-fluid .navbar-brand .icon-nav .i-user  {
+    display: none;
+  }
+  .container-fluid .navbar-brand .icon-nav .i-cart .number {
+    background-color: red;
+    border-radius: 100px;
+    padding: 3px;
+    font-size: 10px;
+    position: absolute;
+    top: -5px;
+    left: 15px;
+  }
+  .container-fluid button.navbar-toggle{
+    width: 30px;
+  }
+  .container-fluid button.navbar-toggle span{
+    width: 20px;
+  } 
+}

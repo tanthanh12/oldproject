@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter", sans-serif;
+}
+h3 {
+  margin: 30px -5px;
+}
+#text {
+  height: 150px;
+}
+.countine-button a {
+  text-align: center;
+  font-size: 20px;
+  width: 20%;
+  margin: 20px auto;
+  background-color: #0846CC;
+  transition: 0.5s ease-in-out;
+}
+.address-form{ 
+  padding: 20px;
+}
+.address-form form label.form-label{
+  font-weight: 500;
+}
