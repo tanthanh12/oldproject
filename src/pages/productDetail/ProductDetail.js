@@ -15,9 +15,10 @@ import {
 } from "reactstrap";
 import { Form, FormGroup, Input } from "reactstrap";
 import axios from "axios";
+import { useParams } from "react-router-dom";
 
 export default function ProductDetail() {
-  const {id} = useParam();
+  const {id} = useParams();
   const [data, setData] = useState([]);
   const getData = () => {
     const url = `https://6518dbbd818c4e98ac5ff3ae.mockapi.io/api-product${id}`;

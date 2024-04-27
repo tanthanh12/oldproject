@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Áo Thun Cổ Tròn Tay Ngắn Vải Cotton 2 Chiều",
+    "price": "197.000đ",
+    "pricecore": 197000,
+    "color": ["đen"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://cdn2.yame.vn/pimg/ao-thun-co-tron-12vahdt-van-hien-chi-bang-ver15-0021731/f4552bae-c959-5a00-2839-001a2d6d1a89.jpg?w=540&h=756",
+      "https://cdn2.yame.vn/pimg/ao-thun-co-tron-12vahdt-van-hien-chi-bang-ver15-0021731/af8e8f78-9adc-5900-5091-001a2d6d1a75.jpg?w=540&h=756"
+    ],
+    "avatar": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-12vahdt-van-hien-chi-bang-ver15-0021731/f4552bae-c959-5a00-2839-001a2d6d1a89.jpg?w=540&h=756",
+    "desc": [
+      "Chất liệu: Thun 2S Cotton Organic",
+      "Thành phần: 100% Cotton Organic",
+      "Thân thiện môi trường",
+      "Không gây kích ứng da",
+      "Mềm mịn",
+      "Thoải mái",
+      "Thấm hút tốt",
+      "Trọng lượng: 190gsm",
+      "May miếng đắp dệt được thiết kế riêng cho dòng vải Cotton Organic"
+    ],
+    "id": "1"
+  },
+  {
+    "name": "Áo Thun Cổ Tròn Ngân Hà",
+    "price": "181.600đ ",
+    "pricecore": 181600,
+    "color": ["xanh lục", "xám xanh"],
+    "size": ["S", "M", "L", "XL" ],
+    "classify": [
+      "https://cdn2.yame.vn/pimg/ao-thun-co-tron-ngan-ha-space-ver40-0021751/3258f75d-377c-0400-77fa-001a07bcf5b0.jpg?w=540&h=756",
+      "https://cdn2.yame.vn/pimg/ao-thun-co-tron-ngan-ha-space-ver40-0021751/938be440-06f0-1b00-2b6f-001a1602e2c7.jpg?w=540&h=756",
+      "https://cdn2.yame.vn/pimg/ao-thun-co-tron-ngan-ha-space-ver40-0021750/8960d5dd-ad83-0600-a88f-001a07b8763c.jpg?w=800"
+    ],
+    "avatar": "https://cdn2.yame.vn/pimg/ao-thun-co-tron-ngan-ha-space-ver40-0021751/3258f75d-377c-0400-77fa-001a07bcf5b0.jpg?w=540&h=756",
+    "desc": [
+      "Chất liệu: Cotton 4 chiều",
+      "Thành phần: 92% Cotton 8% Spandex",
+      "Thân thiện",
+      "Thấm hút thoát ẩm",
+      "Mềm mại, ít nhăn",
+      "Co giãn tối ưu",
+      "Kiểm soát mùi",
+      "Điều hòa nhiệt",
+      "Họa tiết in dẻo + ép silicon"
+    ],
+    "id": "2"
+  },
+  {
+    "name": "Áo Sơ Mi Nam Tay Ngắn",
+    "price": "299.000đ",
+    "pricecore": 299000,
+    "color": ["đen"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/snm5005-den-1.jpg?v=1690163742067",
+      "https://bizweb.dktcdn.net/100/438/408/products/snm5005-tra-7.jpg?v=1690163742067",
+      "https://bizweb.dktcdn.net/100/438/408/products/snm5005-xnh-2.jpg?v=1690163742067"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/snm5005-den-1.jpg?v=1690163742067",
+    "desc": [
+      "Sơ mi nam cộc tay túi ngực 3M: MÁT - MỀM - MỊN",
+      "Chất liệu lụa nến với thành phần 100% polyester siêu mướt và thoáng khí",
+      "Vải mềm mại, bền màu, có khả năng thấm hút tốt, bắt nhiệt lạnh nhanh tạo cảm giác mát mẻ cho người mặc",
+      "Áo sơ mi nam cộc tay có túi ngực thiết kế cơ bản, phom dáng thoải mái",
+      "Cổ và nẹp áo giữ phom trong thời gian dài, cúc áo khắc logo nổi bật",
+      "Áo phù hợp với nam giới làm việc công sở hoặc mặc hằng ngày"
+    ],
+    "id": "3"
+  },
+  {
+    "name": "Áo Giữ Nhiệt Nam Cổ Cao 3cm",
+    "price": "229.000đ",
+    "pricecore": 229000,
+    "color": ["xanh navy", "đen", "xanh đậm", "ghi"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/atm6010-ghi-sgm6011-nvd-5.jpg?v=1699242076617",
+      "https://bizweb.dktcdn.net/100/438/408/products/atm6010-nav-6.jpg?v=1699242098473",
+      "https://bizweb.dktcdn.net/100/438/408/products/atm6010-den-6.jpg?v=1699242090510",
+      "https://bizweb.dktcdn.net/100/438/408/products/atm6010-xdm-sgm6011-xad-1.jpg?v=1699242086860"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/atm6010-ghi-sgm6011-nvd-5.jpg?v=1699242076617",
+    "desc": [
+      "Thành phần:  94% Viscose + 6% Spandex",
+      "Co giãn, giữ ấm, bề mặt vải mịn đem lại cảm giác thoải mái dễ chịu, ngăn chặn được các kích ứng trên da nhạy cảm",
+      "Áo có form dáng ôm giúp tôn dáng cho người mặc",
+      "Màu sắc thanh lịch, có thể kết hợp cùng quần nỉ hoặc quần jeans",
+      "Sản phẩm thích hợp mặc ở nhà, đi làm và đi chơi vào mùa đông"
+    ],
+    "id": "4"
+  },
+  {
+    "name": "Áo Polo Nam Coolmax",
+    "price": "149.000đ",
+    "pricecore": 149000,
+    "color": ["xanh coban", "đen", "vàng nhạt"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-apm3519-xng-8-yodyvn-f8322ed6-e085-4d61-afba-e6f22e1948ea.jpg?v=1690163862263",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-apm3519-den-9-yodyvn.jpg?v=1690163862267",
+      "https://bizweb.dktcdn.net/100/438/408/products/apm3519-vnh-1.jpg?v=1690163862267",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-apm3519-cba-9-yodyvn-a59062c8-046d-4fc8-ba64-af1c8d964bbf.jpg?v=1690163862267"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-apm3519-xng-8-yodyvn-f8322ed6-e085-4d61-afba-e6f22e1948ea.jpg?v=1690163862263",
+    "desc": [
+      "Chất liệu: 95% Polyester + 5% Spandex",
+      "Sợi vải bao gồm nhiều rãnh dẹt giúp thoáng khí, thoát ẩm cực tốt",
+      "Áo polo nam Coolmax mang lại cảm giác mát mẻ, dễ chịu cho người mặc ngay cả khi vận động mạnh",
+      "Tự tin cùng Thiết kế khỏe khoắn, nam tính",
+      "Ứng dụng linh hoạt: Thích hợp mặc đi chơi, đi làm, hoạt động thể thao, cafe, hẹn hò với bạn bè"
+    ],
+    "id": "5"
+  },
+  {
+    "name": "Áo Polo Nam Cafe Phối Vai Năng Động",
+    "price": "329.000đ",
+    "pricecore": 329000,
+    "color": ["xanh navy", "xanh lơ", "nâu"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-yody-apm6043-nav-qsm3026-ghi-4.jpg?v=1695611291390",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-yody-apm6043-xlo-qam6047-ghd-4.jpg?v=1695611326503",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-yody-apm6043-nau-qjm5043-xdm-1.jpg?v=1695611326503"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/ao-polo-nam-yody-apm6043-nav-qsm3026-ghi-4.jpg?v=1695611291390",
+    "desc": [
+      "Áo polo vải cafe",
+      "Thành phần: 100% Polyester by S'cafe",
+      "Sợi Cafe là loại sợi thân thiện với môi trường do được làm từ bã cafe tái chế và chai nhựa tái chế với nhiểu tính năng nổi bật",
+      "Áo có khả năng chống tia UV lên tới 99% nhờ các lỗ nhỏ trên xơ sợi cafe có khả năng khúc xạ lại ánh sáng và tia UV",
+      "Áo polo cafe cho cảm giác mạc thông thoáng vì hấm hút mồ hôi tốt và khô nhanh",
+      "Hạn chế bám mùi trong quá trình sử dụng"
+    ],
+    "id": "6"
+  },
+  {
+    "name": "Áo Len Nam Thu Đông Cổ 3 Cm",
+    "price": "399.000đ",
+    "pricecore": 399000,
+    "color": ["nâu", "xanh navy", "đen"],
+    "size": ["S", "M", "L", "XL"],
+
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/alm5001-den-qam6047-ghd-10.jpg?v=1699328101463",
+      "https://bizweb.dktcdn.net/100/438/408/products/alm5001-nau-qam6047-ghd-6.jpg?v=1694160275133",
+      "https://bizweb.dktcdn.net/100/438/408/products/alm5001-nav-qjm5021-8.jpg?v=1694160345230"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/alm5001-den-qam6047-ghd-10.jpg?v=1699328101463",
+    "desc": [
+      "Chất liệu nỉ 2 mặt",
+      "Thành phần: 87% Polyester + 13% Spandex",
+      "Công nghệ dệt hiện đại giúp sản phẩm có độ xốp, mềm mại, giữ ấm cho cơ thể",
+      "Bề mặt vải mềm mịn, chắc chắn, không xù lông vón cục",
+      "Thấm hút tốt, hạn chế tĩnh điện",
+      "Co giãn đàn hồi, không bai gião ,độ bền cao",
+      "Kiểu dáng cơ bản ôm, khỏa khoắn trẻ trung, hình in phản quang nổi bật",
+      "Phù hợp mặc đi làm, đi học, đi chơi, mix cùng quần joger, quần jeans"
+    ],
+    "id": "7"
+  },
+  {
+    "name": "Áo Chống Nắng Nam Có Mũ",
+    "price": "599.000đ",
+    "pricecore": 599000,
+    "color": ["xanh than", "ghi xám"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-chong-nang-nam-acm6010-gxm-5.jpg?v=1688723265830",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-chong-nang-nam-acm6010-tth-4.jpg?v=1690163400323"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/ao-chong-nang-nam-acm6010-gxm-5.jpg?v=1688723265830",
+    "desc": [
+      "Áo chống nắng nam chất liệu da cá UV mềm mại",
+      "Thành phần:  60% Cotton + 40% Polyester",
+      "Có khả năng thấm hút và co giãn đàn hồi tốt",
+      "UPF 50+ chống tia UVA, UVB hiệu quả, giúp ngăn chặn tia UV gây bỏng da, lão hoá da, bảo vệ làn da khỏi cháy nắng",
+      "Mang đến cảm giác mát mẻ, giúp cơ thể giảm nhiệt 2-3 độ C khi mặc",
+      "Trang bị khoá kéo YKK tốt nhất thế giới đến từ Nhật Bản",
+      "Kiểu dệt tinh tế hiện đại, hạn chế hiện tượng xù lông vón cục",
+      "Thiết kế có mũ che chắn cho vùng đầu và cổ",
+      "Túi áo hai bên tiện lợi để đựng các đồ vật dụng nhỏ"
+    ],
+    "id": "8"
+  },
+  {
+    "name": "Áo Khoác Thể Thao Nam Có Mũ",
+    "price": "599.000đ",
+    "pricecore": 599000,
+    "color": ["xanh cổ vịt", "đen", "xanh navy"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/skm5055-xcv-ao-khoac-nam-yody-3.jpg?v=1690163601307",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-khoac-nam-skm5055-den-8-yody-vn.jpg?v=1690163601307",
+      "https://bizweb.dktcdn.net/100/438/408/products/ao-khoac-nam-skm5055-nav-7-yody-vn.jpg?v=1701757459833"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/skm5055-xcv-ao-khoac-nam-yody-3.jpg?v=1690163601307",
+    "desc": [
+      "Chất liệu vải 100% Polyester",
+      "Vải có bề mặt lỳ, mềm mịn, ít nhăn, chắc chắn hơn so với chất liệu vải gió thông thường",
+      "Áo có thiết kế trẻ trung đơn giản, đường cắt xẻ khỏe khoắn nam tính",
+      "Chun tại cổ tay giúp người mặc trông gọn gàng, vừa vặn hơn",
+      "Phần mũ có thể tháo rời và miệng mũ có luồn chun rất trẻ trung và tinh tế"
+    ],
+    "id": "9"
+  },
+  {
+    "name": "Áo Phao Nam Siêu Nhẹ Có Mũ Siêu Ấm",
+    "price": "599.000đ",
+    "pricecore": 599000,
+    "color": ["rêu", "xanh than", "tím than", "ghi đậm"],
+    "size": ["S", "M", "L", "XL"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/phm4001-reu-3-bbaa6fea-9429-493d-9105-7d0f2bce9970.jpg?v=1671874461990",
+      "https://bizweb.dktcdn.net/100/438/408/products/phm4001-xat-5.jpg?v=1671874461990",
+      "https://bizweb.dktcdn.net/100/438/408/products/phm4001-tit-4.jpg?v=1671874461990",
+      "https://bizweb.dktcdn.net/100/438/408/products/phm4001-ghd-4.jpg?v=1671874461990"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/phm4001-reu-3-bbaa6fea-9429-493d-9105-7d0f2bce9970.jpg?v=1671874461990",
+    "desc": [
+      "Dòng Áo Phao 3S mùa đông",
+      "Áo có cấu trúc 3 lớp chắc chắn",
+      "Thành phần:  100% NYLON",
+      "Màu sắc sản phẩm đa dạng, thiết kế form dáng trẻ trung",
+      "Có thiết kế túi đựng nhỏ gọn, dễ dàng mang theo sản phẩm",
+      "Siêu nhẹ, có tác dụng giữ ấm cho cơ thể",
+      "Áo có thể tránh mưa nhẹ, chống tĩnh điện"
+    ],
+    "id": "10"
+  },
+  {
+    "name": "Quần Âu Nam Cao Cấp Giữ Phom, Co Giãn Thoải Mái",
+    "price": "499.000đ",
+    "pricecore": 499000,
+    "color": ["đen", "xanh đen", "ghi sáng", "xanh đậm", "nâu"],
+    "size": ["29", "30", "31", "32", "33"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/quan-au-nam-cao-cap-giu-phom-co-gian-thoai-mai-qam3127-den-yodyvn-8.jpg?v=1690163845577",
+      "https://bizweb.dktcdn.net/100/438/408/products/quan-au-nam-cao-cap-giu-phom-co-gian-thoai-mai-qam3127-xde-yodyvn-7.jpg?v=1690163845577",
+      "https://bizweb.dktcdn.net/100/438/408/products/qam3127-ghs-2.jpg?v=1690163845577",
+      "https://bizweb.dktcdn.net/100/438/408/products/qam3127-xdm-4.jpg?v=1690163845577",
+      "https://bizweb.dktcdn.net/100/438/408/products/qam3127-nau-2-1796c057-5e70-467f-aaf7-5290b1b6fbb1.jpg?v=1690163845577"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/quan-au-nam-cao-cap-giu-phom-co-gian-thoai-mai-qam3127-den-yodyvn-8.jpg?v=1690163845577",
+    "desc": [
+      "Chất liệu Tuytsi 79",
+      "Thành phần: 78% Polyester, 18% Viscose, 4% Spandex",
+      "Thiết kế suông nhẹ, vừa đảm bảo sự thoải mái",
+      "Túi được xẻ 2 bên, sau hông có tùi cài tiện lợi, cạp cao",
+      "Cảm giác co giãn tốt, tăng cường khả năng chống nhăn trên vải, thấm hút mồ hôi và hút ẩm cao, thoáng mát",
+      "Thiết kế trẻ trung mà vẫn lịch lãm hứa hẹn sẽ là chiếc quần đắt giá mà bạn muốn diện trong mọi công việc."
+    ],
+    "id": "11"
+  },
+  {
+    "name": "Quần Kaki Nam Basic Năng Động",
+    "price": "274.00đ",
+    "pricecore": 274500,
+    "color": ["đen", "be", "xanh than", "xám"],
+    "size": ["29", "30", "31", "32", "33"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/qkm5027-den-20.jpg?v=1704250429600",
+      "https://bizweb.dktcdn.net/100/438/408/products/qkm5027-bee-26.jpg?v=1704250429600",
+      "https://bizweb.dktcdn.net/100/438/408/products/qkm5027-xth-27.jpg?v=1704250429600",
+      "https://bizweb.dktcdn.net/100/438/408/products/qkm5027-xam-22.jpg?v=1704250429600"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/qkm5027-den-20.jpg?v=1704250429600",
+    "desc": [
+      "Quần kaki nam basic dáng ôm",
+      "Thành phần: 97% Cotton + 3% Spandex",
+      "Chất liệu kaki dày dặn, co giãn đàn hồi tốt",
+      "Thiết kế cơ bản có túi chéo cạnh sườn, cúc khắc logo, khóa đồng chắc chắn và túi hậu cài cúc hai bên",
+      "Sản phẩm phù hợp để cánh mày râu sử dụng trong nhiều hoàn cảnh khác nhau"
+    ],
+    "id": "12"
+  },
+  {
+    "name": "Quần Kaki Nam Jogger Cơ Bản",
+    "price": "499.000đ",
+    "pricecore": 499000,
+    "color": ["đen", "ghi", "ghi đậm"],
+    "size": ["29", "30", "31", "32", "33"],
+    "classify": [
+      "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/quan-kaki-nam-jogger-yody-qkm6027-den-6.jpg?v=1697254421893",
+      "https://bizweb.dktcdn.net/100/438/408/products/quan-kaki-nam-jogger-yody-qkm6027-ghi-5.jpg?v=1699328465910",
+      "https://bizweb.dktcdn.net/100/438/408/products/quan-kaki-nam-jogger-yody-qkm6027-ghd-6.jpg?v=1699516993687"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/thumb/large/100/438/408/products/quan-kaki-nam-jogger-yody-qkm6027-den-6.jpg?v=1697254421893",
+    "desc": [
+      "Thành phần: 97% Cotton, 3%spandex",
+      "Quần kaki có khả năng thấm hút tốt, thông thoáng, mềm mại tự nhiên của cotton",
+      "Bền chắc với kiểu dệt chặt chẽ",
+      "Cài thêm spandex co giãn mang lại cảm giác thoải mái, dễ chịu cho người sử dụng",
+      "Kiểu dáng jogger năng động, khoẻ khoắn"
+    ],
+    "id": "13"
+  },
+  {
+    "name": "Quần Jeans Nam Slim Cotton USA Co Giãn 85",
+    "price": "294.000đ",
+    "pricecore": 294000,
+    "color": ["xanh đậm", "xanh"],
+    "size": ["29", "30", "31", "32", "33"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/qjm5079-xdm-08.jpg?v=1692606208253",
+      "https://bizweb.dktcdn.net/100/438/408/products/qjm5079-xah-04.jpg?v=1704250391033"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/qjm5079-xdm-08.jpg?v=1692606208253",
+    "desc": [
+      "Chất liệu: 76% Cotton, 22% Polyester, 2% Spandex",
+      "Sợi Cotton mềm, co giãn đàn hồi tốt, nhẹ và dễ chịu",
+      "Thiết kế quần jeans dáng ống côn khoẻ khoắn",
+      "Form slim fit ôm vừa vặn giúp người mặc trông gọn gàng và năng động",
+      "Quần có thể mặc quanh năm khi vừa giữ cho người mặc luôn khô ráo và mát mẻ vào những ngày nắng nóng hoặc khi đang hoạt động, vừa đáp ứng yêu cầu cách nhiệt tối thiểu cho sự ấm áp vào những ngày lạnh",
+      "Sản phẩm bền màu, dễ bảo quản trong quá trình sử dụng"
+    ],
+    "id": "14"
+  },
+  {
+    "name": "Quần Short Nam Cạp Chun Cúc",
+    "price": "399.000đ",
+    "pricecore": 399000,
+    "color": ["ghi đậm", "đen", "vàng cát"],
+    "size": ["29", "30", "31", "32", "33"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/qsm6025-ghd-3.jpg?v=1688723285017",
+      "https://bizweb.dktcdn.net/100/438/408/products/qsm6025-den-11.jpg?v=1690163431367",
+      "https://bizweb.dktcdn.net/100/438/408/products/qsm6025-vac-18.jpg?v=1690163431367"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/qsm6025-ghd-3.jpg?v=1688723285017",
+    "desc": [
+      "Chất liệu Kaki",
+      "Thành phần: 97% Cotton + 3% Spandex",
+      "Thấm hút, thông thoáng, mềm mại tự nhiên của cotton",
+      "Bền chắc với kiểu dệt chặt chẽ và an toàn với người sử dụng",
+      "Co dãn mang lại cảm giác thoải mái, dễ chịu cho người sử dụng",
+      "Quần cạp chung cùng túi 2 bên sườn tiện dụng"
+    ],
+    "id": "15"
+  },
+  {
+    "name": "Tất Nam Thoáng Khí Cổ Trên Mắt Cá",
+    "price": "69.000đ",
+    "pricecore": 69000,
+    "color": ["trắng", "đen", "xám"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/tat-nam-tren-mat-ca-chan-yody-tam6017-den-3.jpg?v=1703472465467",
+      "https://bizweb.dktcdn.net/100/438/408/products/tat-nam-tren-mat-ca-chan-yody-tam6017-trg-3.jpg?v=1704250024147",
+      "https://bizweb.dktcdn.net/100/438/408/products/tat-nam-tren-mat-ca-chan-yody-tam6017-xam-3.jpg?v=1704250024147"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/tat-nam-tren-mat-ca-chan-yody-tam6017-den-3.jpg?v=1703472465467",
+    "desc": [
+      "Thành phần: 54% Cotton, 36% Polyester, 4% Elastane, 4% Nylon, 2% Elastodiene",
+      "Tất nam mềm mại, thông thoáng cho đôi chân của bạn",
+      "Nhờ công nghệ xử lý hiện đại nên sản phẩm nền sợi, hạn chế xù lông vón cục tốt",
+      "An toàn với người sử dụng"
+    ],
+    "id": "16"
+  },
+  {
+    "name": "Thắt Lưng Nam Da Bò Cạnh Viền Kim Loại",
+    "price": "499.000đ",
+    "pricecore": 499000,
+    "color": ["đen", "nâu"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/tlm6073-den-that-lung-nam-3.jpg?v=1688182598017",
+      "https://bizweb.dktcdn.net/100/438/408/products/tlm6073-den-that-lung-nam-3.jpg?v=1688182598017",
+      "https://bizweb.dktcdn.net/100/438/408/products/tlm6073-nau-that-lung-nam-3.jpg?v=1688182599100"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/tlm6073-den-that-lung-nam-3.jpg?v=1688182598017",
+    "desc": [
+      "Mặt dây làm từ kim loại không gỉ, phần khóa trượt tự động giúp điều chỉnh dây lưng dễ dàng.",
+      "Thiết kế rất đơn giản nhưng không kém phần tinh tế",
+      "Màu sắc ấm áp, tạo cảm giác ấn tượng và gần gũi với người sử dụng.",
+      "Phù hợp với nhiều loại trang phục khác nhau, tôn vẻ nam tính, lịch thiệp cho phái mạnh."
+    ],
+    "id": "17"
+  },
+  {
+    "name": "Thắt Lưng Nam Da Bò Xoay 2 Mặt Bản 3.3 Cm",
+    "price": "499.000đ",
+    "pricecore": 499000,
+    "color": ["đen", "nâu"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/tlm5021-den-6.jpg?v=1669888048230",
+      "https://bizweb.dktcdn.net/100/438/408/products/tlm5021-nau-4.jpg?v=1665477970910"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/tlm5021-den-6.jpg?v=1669888048230",
+    "desc": [
+      "Thắt lưng nam da bò - phụ kiện thiết yếu cho nam giới",
+      "Thành phần gồm Da bò và PU tráng phủ tạo độ bền cho sản phẩm",
+      "Sử dụng Da thật có độ bền từ 1-3 năm"
+    ],
+    "id": "18"
+  },
+  {
+    "name": "Mũ Lưỡi Trai Phối Màu Thêu Chữ P",
+    "price": "199.000đ",
+    "pricecore": 199000,
+    "color": ["đen", "xanh navy", "xanh lục"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-muu6006-nav-2.jpg?v=1684918250157",
+      "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-muu6006-den-2.jpg?v=1684918262240",
+      "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-muu6006-xah-3.jpg?v=1684918257343"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-muu6006-nav-2.jpg?v=1684918250157",
+    "desc": [
+      "Mũ lưỡi trai phối màu thêu chữ P thoáng mát, thoải mái, thời trang",
+      "Thành phần: 100% Cotton",
+      "Chất liệu cotton thấm hút tốt, thông thoáng da đầu",
+      "Vải mềm, nhanh khô",
+      "Đường may tỉ mỉ, kết cấu chắc chắn",
+      "Mang đến cảm giác thoải mái và thuận tiện khi sử dụng"
+    ],
+    "id": "19"
+  },
+  {
+    "name": "Túi Unisex Đeo Chéo Dệt Hoạ Tiết",
+    "price": "399.000đ",
+    "pricecore": 399000,
+    "color": ["Đen melange 1"],
+    "classify": [
+      "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-tui-unisex-tuu6006-dm1-5.jpg?v=1685671273853",
+      "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-tui-unisex-tuu6006-dm1-4.jpg?v=1685671274890"
+    ],
+    "avatar": "https://bizweb.dktcdn.net/100/438/408/products/phu-kien-nam-tui-unisex-tuu6006-dm1-5.jpg?v=1685671273853",
+    "desc": [
+      "Túi đeo chéo dệt hoạ tiết thời trang và phong cách",
+      "Thành phần: 75%cotton, 25%polyeste",
+      "Thiết kế unisex dùng được cho cả nam và nữ",
+      "Kích thước túi: 14*18.5*9cm",
+      "Quai bản to không đau vai",
+      "Dáng hộp cứng cáp, kèm dây đeo tiện lợi",
+      "Dễ dàng phối với nhiều trang phục sử dụng hằng ngày, đi chơi, dạo phố, du lịch"
+    ],
+    "id": "20"
+  }
+]
